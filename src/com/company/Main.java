@@ -46,7 +46,7 @@ public class Main {
             if (heroesHealth[7] > 0) {
                 if (choice) {
                     bossDamage = 0;
-                    System.out.println("Thor suppressed the Boss" + th);
+                    System.out.println("Thor suppressed the Boss" + choice);
                     break;
                 }
             } else {
